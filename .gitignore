@@ -1,0 +1,15 @@
+# C++ build
+cpp/build*/
+cpp/*.gcda
+cpp/*.gcno
+cpp/*.gcov
+
+# Go
+go/coverage.out
+go/coverage.html
+
+# Benchmark
+bench_result.json
+
+# IDE
+.vscode/

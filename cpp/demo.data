@@ -1,0 +1,3 @@
+MCREATE arr
+MPUSH arr B 10
+MPUSH arr B 20
